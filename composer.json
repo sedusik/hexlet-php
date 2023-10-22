@@ -1,0 +1,12 @@
+{
+    "name": "sedusik/hexlet-php",
+    "authors": [
+        {
+            "name": "Tanya Sedusova",
+            "email": "tanyasedusova@yandex.ru"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
+}
