@@ -1,5 +1,6 @@
 {
     "name": "sedusik/hexlet-php",
+    
     "authors": [
         {
             "name": "Tanya Sedusova",
@@ -8,5 +9,10 @@
     ],
     "require": {
         "tightenco/collect": "^9.52"
+    },
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
     }
 }
